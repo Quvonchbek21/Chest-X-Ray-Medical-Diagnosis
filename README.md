@@ -43,9 +43,12 @@ ROC Curve and AUC Score:
 
 <img width="769" height="596" alt="Skrinshot 2026-03-22 212438" src="https://github.com/user-attachments/assets/626e65bf-bfba-4b78-890b-5c172ff60d04" />
 
-Final Classification Report
+Final Classification Report:
+
 ​The model's effectiveness was validated on the test set, achieving an overall Accuracy of 88%.
+
 ​High Recall for Pneumonia (0.93): This is crucial for medical diagnosis, as it indicates the model successfully identifies 93% of all pneumonia cases, minimizing the risk of missing a sick patient (False Negatives).
+
 ​F1-Score (0.88): A balanced performance metric across both classes, showing robust classification capabilities.
 
 <img width="494" height="238" alt="Skrinshot 2026-03-22 211713" src="https://github.com/user-attachments/assets/10efc173-90e2-4405-bb44-011e38267f4e" />
